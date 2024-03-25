@@ -1,4 +1,4 @@
-CREATE TABLE districts 
+CREATE TABLE IF NOT EXISTS districts 
 (
     id	INT,
     name	VARCHAR(512),
