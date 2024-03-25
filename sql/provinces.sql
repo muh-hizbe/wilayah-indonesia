@@ -1,4 +1,4 @@
-CREATE TABLE provinces 
+CREATE TABLE IF NOT EXISTS provinces 
 (
     id	INT,
     name	VARCHAR(512),
