@@ -1,4 +1,4 @@
-CREATE TABLE cities 
+CREATE TABLE IF NOT EXISTS cities 
 (
     id	INT,
     type	VARCHAR(512),
