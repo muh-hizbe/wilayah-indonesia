@@ -30,7 +30,7 @@ INSERT INTO provinces (id, name, code) VALUES ('22', 'Nusa Tenggara Barat (NTB)'
 INSERT INTO provinces (id, name, code) VALUES ('23', 'Nusa Tenggara Timur (NTT)', '53');
 INSERT INTO provinces (id, name, code) VALUES ('24', 'Papua', '91');
 INSERT INTO provinces (id, name, code) VALUES ('25', 'Papua Barat', '92');
-INSERT INTO provinces (id, name, code) VALUES ('26', 'Papua Barat Daya', '92');
+INSERT INTO provinces (id, name, code) VALUES ('26', 'Papua Barat Daya', '96');
 INSERT INTO provinces (id, name, code) VALUES ('27', 'Papua Pegunungan', '95');
 INSERT INTO provinces (id, name, code) VALUES ('28', 'Papua Selatan', '93');
 INSERT INTO provinces (id, name, code) VALUES ('29', 'Papua Tengah', '94');
