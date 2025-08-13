@@ -178,10 +178,10 @@ INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('167',
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('168', 'Kabupaten', 'Soppeng', '12', '7312', '32');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('169', 'Kabupaten', 'Katingan', '06', '6206', '14');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('170', 'Kabupaten', 'Kaur', '04', '1704', '4');
-INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('171', 'Kabupaten', 'Sorong', '01', '9201', '26');
+INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('171', 'Kabupaten', 'Sorong', '01', '9601', '26');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('172', 'Kabupaten', 'Kayong Utara', '11', '6111', '12');
-INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('173', 'Kota', 'Sorong', '71', '9271', '26');
-INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('174', 'Kabupaten', 'Sorong Selatan', '04', '9204', '26');
+INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('173', 'Kota', 'Sorong', '71', '9671', '26');
+INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('174', 'Kabupaten', 'Sorong Selatan', '02', '9602', '26');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('175', 'Kabupaten', 'Kebumen', '05', '3305', '10');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('176', 'Kabupaten', 'Sragen', '14', '3314', '10');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('177', 'Kabupaten', 'Kediri', '06', '3506', '11');
@@ -244,7 +244,7 @@ INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('233',
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('234', 'Kota', 'Cirebon', '74', '3274', '9');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('235', 'Kabupaten', 'Kepulauan Siau Tagulandang Biaro (Sitaro)', '09', '7109', '35');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('236', 'Kabupaten', 'Kepulauan Sula', '05', '8205', '21');
-INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('237', 'Kabupaten', 'Tambrauw', '09', '9209', '26');
+INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('237', 'Kabupaten', 'Tambrauw', '04', '9604', '26');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('238', 'Kabupaten', 'Kepulauan Talaud', '04', '7104', '35');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('239', 'Kabupaten', 'Kepulauan Tanimbar (Maluku Tenggara Barat)', '03', '8103', '20');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('240', 'Kabupaten', 'Cirebon', '09', '3209', '9');
@@ -408,7 +408,7 @@ INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('397',
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('398', 'Kabupaten', 'Mappi', '03', '9303', '28');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('399', 'Kabupaten', 'Maros', '09', '7309', '32');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('400', 'Kota', 'Mataram', '71', '5271', '22');
-INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('401', 'Kabupaten', 'Maybrat', '10', '9210', '26');
+INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('401', 'Kabupaten', 'Maybrat', '05', '9605', '26');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('402', 'Kota', 'Medan', '71', '1271', '38');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('403', 'Kabupaten', 'Melawi', '10', '6110', '12');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('404', 'Kabupaten', 'Mempawah', '02', '6102', '12');
@@ -515,7 +515,7 @@ INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('504',
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('505', 'Kabupaten', 'Purbalingga', '03', '3303', '10');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('506', 'Kabupaten', 'Purwakarta', '14', '3214', '9');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('507', 'Kabupaten', 'Purworejo', '06', '3306', '10');
-INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('508', 'Kabupaten', 'Raja Ampat', '05', '9205', '26');
+INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('508', 'Kabupaten', 'Raja Ampat', '03', '9603', '26');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('509', 'Kabupaten', 'Rejang Lebong', '02', '1702', '4');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('510', 'Kabupaten', 'Rembang', '17', '3317', '10');
 INSERT INTO cities (id, type, name, code, full_code, province_id) VALUES ('511', 'Kabupaten', 'Rokan Hilir', '07', '1407', '30');
